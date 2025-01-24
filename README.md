@@ -16,3 +16,5 @@ Get a concise, AI-driven conclusion based on the entire dataset's summary.
 Ask Questions About the Dataset:
 
 Type any question about the dataset, and the app leverages AI to provide relevant answers.
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/d420e6b7-d855-4eec-b74f-f8b1f456b3af" />
+
